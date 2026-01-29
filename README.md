@@ -58,7 +58,7 @@ The [Euler–Mascheroni constant][eulergamma] `γ` is defined as the limiting di
 ## Usage
 
 ```javascript
-import FLOAT16_EULERGAMMA from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-eulergamma@deno/mod.js';
+import FLOAT16_EULERGAMMA from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-eulergamma@v0.2.0-deno/mod.js';
 ```
 
 #### FLOAT16_EULERGAMMA
@@ -87,7 +87,7 @@ var bool = ( FLOAT16_EULERGAMMA === 0.5771484375 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT16_EULERGAMMA from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-eulergamma@deno/mod.js';
+import FLOAT16_EULERGAMMA from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-eulergamma@v0.2.0-deno/mod.js';
 
 console.log( FLOAT16_EULERGAMMA );
 // => 0.5771484375
